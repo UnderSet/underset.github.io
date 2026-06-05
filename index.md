@@ -6,7 +6,7 @@ Hi. This is my little corner on the Internet, I guess.
 
 [I have a blog. I occasionally post.](https://underset.github.io/blog) I do Garry's Mod scripting from time to time. But these days you'll likely catch me playing Yakuza or something more often than not.
 
-- My projects:
+- My projects, both ones I'm proud about and ones I'm *not* proud about:
   - *To be added, but here's some I guess*
   - [**`gmcaptions`**](https://github.com/UnderSet/gmcaptions): CC/subtitle rendering in Garry's Mod with Lua
     - I had to write a (bad) text parser for this. It was not fun. (Granted, I barely knew what I was doing.)
