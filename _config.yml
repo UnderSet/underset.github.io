@@ -1,0 +1,7 @@
+title: UnderSet's web page...or something
+description: My web page. Whatever it is.
+author: UnderSet
+remote_theme: pages-themes/primer@v0.6.0
+
+plugins:
+- jekyll-remote-theme
