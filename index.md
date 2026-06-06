@@ -24,6 +24,7 @@ Hi. This is my little corner on the Internet, I guess.
 
 - Me elsewhere on the internet:
   - [**UnsetVariable** (`variablenotset`) on Discord](https://discord.com/users/1152249945823399988)
-  - Email me at [unsetvariable32@proton.me](mailto:unsetvariable32@proton.me)
+  - Email me at [unsetvariable@proton.me](mailto:unsetvariable@proton.me)
     - *Do not* email me at the address on my commits if it isn't this one. I *will* bin your emails if you do. (Sorry.)
+    - Sorry to anyone who tried to send me mail at unsetvariable32[at]proton.me - that isn't actually my email address. I have enough addresses to begin mixing them up, it seems.
   - *uhhhh there's probably more I probably forgor*
