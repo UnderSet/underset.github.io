@@ -21,7 +21,9 @@ Hi. This is my little corner on the Internet, I guess.
         - ...I should split/rewrite (come on you can just see how bad the code is) that boilerplate into its own repo or whatever someday.
     - Yeah I don't know why but for some reason this is like the one thing I left on GitLab. I don't know why. I don't want to know why.
     - Oh by the way, Beatrun only has custom HUD elements for its own stuff. Ammo and whatever still uses the default HL2 HUD or whatever HUD addon you have. That's why this even exists.
-
+- Other stuff I've written:
+  - ***Work in progress:*** [A quick *(possibly inaccurate and full of not-best-practices)* crash course to GitHub Pages for beginners](/GH-Pages-Crash-Course.md)
+    - This is not the *best* way to do it, I would know, it's also barebones as hell, but it's as quick of a Pages setup as you can get so uh, yeah.
 - Me elsewhere on the internet:
   - [**UnsetVariable** (`variablenotset`) on Discord](https://discord.com/users/1152249945823399988)
   - Email me at [unsetvariable@proton.me](mailto:unsetvariable@proton.me)
