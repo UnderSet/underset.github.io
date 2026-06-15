@@ -28,3 +28,5 @@ Hi. This is my little corner on the Internet, I guess.
     - *Do not* email me at the address on my commits if it isn't this one. I *will* bin your emails if you do. (Sorry.)
     - Sorry to anyone who tried to send me mail at unsetvariable32[at]proton.me - that isn't actually my email address. I have enough addresses to begin mixing them up, it seems.
   - *uhhhh there's probably more I probably forgor*
+
+Code (all of `_layouts` folder, `_config.yml`) is licensed under the [MIT License](/LICENSE). All other content is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
