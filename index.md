@@ -4,10 +4,11 @@ title: "hi"
 
 Hi. This is my little corner on the Internet, I guess.
 
-[I have a blog. I occasionally post.](https://underset.github.io/blog) I do Garry's Mod scripting from time to time. But these days you'll likely catch me playing Yakuza or something more often than not.
+[I have a blog. I occasionally post.](https://underset.github.io/blog) I do Garry's Mod (and also some other Lua) scripting from time to time. But these days you'll likely catch me playing Yakuza or something more often than not.
 
 - My projects, both ones I'm proud about and ones I'm *not* proud about:
   - *To be added, but here's some I guess*
+  - [**`MomoHTMLEditor`**](https://github.com/UnderSet/MomoHTMLEditor): C# tool to create content in _Blue Archive_ MomoTalk style
   - [**`gmcaptions`**](https://github.com/UnderSet/gmcaptions): CC/subtitle rendering in Garry's Mod with Lua
     - I had to write a (bad) text parser for this. It was not fun. (Granted, I barely knew what I was doing.)
   - [**`beatrun-legacy`**](https://github.com/UnderSet/beatrun-legacy): Pre-fullbody version of datae's Beatrun gamemode with extracted source code
@@ -25,10 +26,9 @@ Hi. This is my little corner on the Internet, I guess.
   - ***Work in progress:*** [A quick *(possibly inaccurate and full of not-best-practices)* crash course to GitHub Pages for beginners](/GH-Pages-Crash-Course.md)
     - This is not the *best* way to do it, I would know, it's also barebones as hell, but it's as quick of a Pages setup as you can get so uh, yeah.
 - Me elsewhere on the internet:
-  - [**UnsetVariable** (`variablenotset`) on Discord](https://discord.com/users/1152249945823399988)
+  - [**UnsetVariable** (`variablenotset`) on Discord](https://discord.com/users/1152249945823399988) (I prefer this these days)
   - Email me at [unsetvariable@proton.me](mailto:unsetvariable@proton.me)
-    - *Do not* email me at the address on my commits if it isn't this one. I *will* bin your emails if you do. (Sorry.)
-    - Sorry to anyone who tried to send me mail at unsetvariable32[at]proton.me - that isn't actually my email address. I have enough addresses to begin mixing them up, it seems.
+    - *Do not* email me at any other address. I *will* bin your emails if you do. (Sorry.)
   - *uhhhh there's probably more I probably forgor*
 
 Code (all of `_layouts` folder, `_config.yml`) is licensed under the [MIT License](/LICENSE). All other content is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
